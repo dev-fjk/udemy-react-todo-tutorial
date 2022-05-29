@@ -1,11 +1,7 @@
 # udemy-react-todo-tutorial
 
-[モダン JavaScript の基礎から始める挫折しないための React 入門]
+- [モダン javascript の基礎から始める挫折しないための react 入門](https://www.udemy.com/course/modern_javascipt_react_beginner/)
+- [SandBox](https://codesandbox.io/s/purple-waterfall-v0nptw)
 
 Vanilla JS での実装は以下のプライベートリポジトリ</br>
-[frontend-study]
-
-<!-- links -->
-
-[モダンjavascriptの基礎から始める挫折しないためのreact入門]: https://www.udemy.com/course/modern_javascipt_react_beginner/
-[frontend-study]: https://github.com/pmcmember/frontend-study
+[frontend-study](https://github.com/pmcmember/frontend-study)
